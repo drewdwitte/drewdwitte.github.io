@@ -3,14 +3,14 @@
 <head>
 <style>
 
-Container{
+#Container{
   width:100px
 }
 
-header{
+#header{
   background-color:#b8860b
 }
-h1{
+#h1{
   margin-bottom:0
 }
 Image{
@@ -26,9 +26,9 @@ Summary{
     width:333px
     float:left
 }
-h2{color:#ff3030}
-h3{color:#0C65E7}
-h4{color:#ffffff}
+#h2{color:#ff3030}
+#h3{color:#0C65E7}
+#h4{color:#ffffff}
    
 characters{
       background-color:#ff3030
@@ -37,7 +37,7 @@ characters{
         float:right
 }
 
-footer{
+#footer{
   background-color:#E6E6FA
     clear:both
     text-align:center
