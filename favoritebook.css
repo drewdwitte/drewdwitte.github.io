@@ -4,41 +4,41 @@
 <style>
 
 #Container{
-  width:100px
+  width:100px;
 }
 
 #header{
-  background-color:#b8860b
+  background-color:#b8860b;
 }
 #h1{
-  margin-bottom:0
+  margin-bottom:0;
 }
 Image{
-  background-color:#0C65E7
-    height:800px
-    width:333px
-    float:left
+  background-color:#0C65E7;
+    height:800px;
+    width:333px;
+    float:left;
   }
 
 Summary{
-  background-color:#ffffff
-    height:800px
-    width:333px
-    float:left
+  background-color:#ffffff;
+    height:800px;
+    width:333px;
+    float:left;
 }
-#h2{color:#ff3030}
-#h3{color:#0C65E7}
-#h4{color:#ffffff}
+#h2{color:#ff3030;}
+#h3{color:#0C65E7;}
+#h4{color:#ffffff;}
    
 characters{
-      background-color:#ff3030
-        height:800px
-  width:333px
-        float:right
+      background-color:#ff3030;
+        height:800px;
+  width:333px;
+        float:right;
 }
 
 #footer{
-  background-color:#E6E6FA
-    clear:both
-    text-align:center
+  background-color:#E6E6FA;
+    clear:both;
+    text-align:center;
 }
