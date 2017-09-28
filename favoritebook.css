@@ -29,5 +29,16 @@ Summary{
 h2{color:#ff3030}
 h3{color:#0C65E7}
 h4{color:#ffffff}
-    
-    
+   
+characters{
+      background-color:#ff3030
+        height:800px
+  width:333px
+        float:right
+}
+
+footer{
+  background-color:#E6E6FA
+    clear:both
+    text-align:center
+}
