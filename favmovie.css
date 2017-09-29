@@ -44,6 +44,8 @@
 
 #footer
 {
+  width:200px;
+  length:500px;
   background-color:#ffffff;
   clear:both;
   text-align:center;
