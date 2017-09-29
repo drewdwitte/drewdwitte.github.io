@@ -20,15 +20,15 @@
 #Trailer
 {
   background-color:#90ee90; 
-  width:1000px;
-  length:1000px;
+  width:800px;
+  height:1000px;
   float:left;
 }
 
 #Synopsis
 {
   background-color:#FF00FF;
-  width:1000px;
-  length:1000px;
+  width:800px;
+  height:1000px;
   float:right;
 }  
