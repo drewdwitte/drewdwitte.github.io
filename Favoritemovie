@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!T<!DOCTYPE html>
 <html>
 <head>
 <title>Favoritemovie</title>
@@ -8,4 +8,14 @@
 <!-- Overall Container -->
 <div id="container">
 
+<!-- title subcontainer -->
+<div id="header">
+<h1>My favorite Movie</h1>
+</div> <!-- End Title Container -->
 
+<!-- Trailer Subcontainer -->
+<div id="Trailer">
+<video width="400" controls>
+  <source 
+src="Dr. Strangelove Or How I Learned To Stop Worrying And Love The Bomb - Trailer.mp4" 
+type="video/mp4">
