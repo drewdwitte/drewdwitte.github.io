@@ -7,6 +7,16 @@
   width:1000px;
 }
 
+#p
+{
+  padding:24px;
+}
+
+#video
+{
+  border:5px solid;
+  padding:10px;
+}
 #header
 {
   background-color:#b8860b;
