@@ -1,1 +1,16 @@
-<b>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ideal Career</title>
+    <link rel="stylesheet" href="idealcareer.css">
+  </head>
+<body> 
+
+<!-- Overall Container -->
+<div id="container">
+
+<div id="header">
+<h1>My Ideal Career: Garbage Man</h1>
+</div>
+
+<div id="picture">
