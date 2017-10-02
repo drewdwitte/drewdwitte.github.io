@@ -27,12 +27,15 @@ That <!DOCTYPE html>
 
 <div id="links">
 <h4>Links</h4>
-<p><a href="https://swana.org/default.aspx">Professional Organization</a></p>
-<p><a href="
- 
  <nav>
      <ul>
       <li><a href="https://swana.org/default.aspx">Professional Organization</a></li>
       <li><a href="https://drewdwitte.github.io/index.html">Favorite Movie</a></li>    
      </ul>
     </nav>
+</div>
+
+</div>
+</body>
+</html>
+    
