@@ -25,7 +25,7 @@
 {
 height:500px;
 width:333px;
-float:center;
+float:left;
 background-color:#ffffff;
 }
 
@@ -33,6 +33,6 @@ background-color:#ffffff;
 {
 height:500px;
 width:333px;
-float:right;
+float:left;
 background-color:#ffffff;
 }  
