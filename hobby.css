@@ -1,0 +1,35 @@
+#Container
+{
+  width:100px;
+}
+
+#header
+{
+  background-color:#b8860b;
+}
+
+#h1
+{
+  margin-bottom:0;
+}
+
+#Image
+{
+width:350px;
+height:500px;
+float:left;
+}
+
+#video
+{
+width:400px;
+height:500px;
+float:left;
+}
+
+#links
+{
+width:200px;
+height:500px;
+float:left;
+}
