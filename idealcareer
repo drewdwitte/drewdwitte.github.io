@@ -1,3 +1,4 @@
+
 That <!DOCTYPE html>
 <html>
 <head>
@@ -23,3 +24,15 @@ That <!DOCTYPE html>
 <h3>Outline</h3>
 <p>My outline to get this job would be to first get my high school diploma. I would then get a commercial driver's license in order to drive the truck. That means that I will have to be 21 and have no disqualifying criminal offenses. After tha I'll apply and hopefully become a garbage man </p>
 </div>
+
+<div id="links">
+<h4>Links</h4>
+<p><a href="https://swana.org/default.aspx">Professional Organization</a></p>
+<p><a href="
+ 
+ <nav>
+     <ul>
+      <li><a href="https://swana.org/default.aspx">Professional Organization</a></li>
+      <li><a href="https://drewdwitte.github.io/index.html">Favorite Movie</a></li>    
+     </ul>
+    </nav>
