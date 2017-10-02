@@ -1,0 +1,31 @@
+#Container
+{
+  width:1000px;
+}
+
+#header
+{
+  background-color:#b8860b;
+}
+
+#h1
+{
+  margin-bottom:0;
+}
+
+#picture
+{
+  background-color:#ffffff;
+  height:500px;
+  width:333px;
+  float:left;
+  }
+  
+#description
+{
+height:500px;
+width:333px;
+float:center;
+background-color:#ffffff;
+}
+
